@@ -4,6 +4,7 @@
 
 * Intro_1_What_is_Jupyter_Notebook.ipynb
 * I_1_Importing_Data_from_a_CSV_File.ipynb
+* S_1_Installing_and_Managing_Python_Libraries.ipynb
 
 ## GPTs
 

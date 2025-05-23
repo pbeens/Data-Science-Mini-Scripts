@@ -1,0 +1,13 @@
+Date,City,Temperature (C),Humidity (%),Condition
+2024-05-01,Toronto,18,55,Sunny
+2024-05-01,Vancouver,15,65,Cloudy
+2024-05-01,Calgary,12,50,Sunny
+2024-05-01,Halifax,14,70,Rain
+2024-05-02,Toronto,19,53,Sunny
+2024-05-02,Vancouver,16,67,Cloudy
+2024-05-02,Calgary,13,52,Rain
+2024-05-02,Halifax,15,68,Cloudy
+2024-05-03,Toronto,21,50,Sunny
+2024-05-03,Vancouver,17,60,Sunny
+2024-05-03,Calgary,14,48,Cloudy
+2024-05-03,Halifax,16,65,Sunny
